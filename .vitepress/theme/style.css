@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Inter VariableFont";
+    src: url("/fonts/Inter-VariableFont_slnt\,wght.ttf");
+  }
+
+  html {
+    font-family: "Inter VariableFont", ui-monospace, SFMono-Regular, Menlo,
+      Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-weight: 400;
+    font-size: 15px;
+  }
+}
