@@ -95,3 +95,29 @@ how the pandemic has sparked fresh opportunities.
 ::::
 
 :::::
+
+::::: Container {.flex .w-full .justify-center .lg:max-w-[80vw] .mb-8}
+
+:::: Carousel
+
+::: CarouselItem {#slide_banner1}
+
+![甜筒](https://img.daisyui.com/images/stock/photo-1559703248-dcaaec9fab78.jpg)
+
+:::
+
+::: CarouselItem {#slide_banner2}
+
+![葡萄](https://img.daisyui.com/images/stock/photo-1565098772267-60af42b81ef2.jpg)
+
+:::
+
+::: CarouselItem {#slide_banner3}
+
+![檸檬](https://img.daisyui.com/images/stock/photo-1572635148818-ef6fd45eb394.jpg)
+
+:::
+
+::::
+
+:::::

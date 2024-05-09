@@ -1,5 +1,10 @@
 <script setup>
-defineProps(["image", "image_md"]);
+import { withBase } from "vitepress";
+
+const props = defineProps(["image", "image_md"]);
+
+const image = withBase(props.image);
+const image_md = withBase(props.image_md);
 </script>
 
 <template>
@@ -35,6 +40,6 @@ defineProps(["image", "image_md"]);
 }
 
 .newsCardWrapper p > a {
-  @apply bg-[#F15E51] px-12 py-5 text-lg uppercase text-slate-100 lg:hover:bg-[#00001A] lg:hover:text-slate-100;
+  @apply bg-[#F15E51] px-8 py-5 text-lg uppercase text-slate-100 lg:hover:bg-[#00001A] lg:hover:text-slate-100;
 }
 </style>

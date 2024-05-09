@@ -5,7 +5,7 @@
 @layer base {
   @font-face {
     font-family: "Inter VariableFont";
-    src: url("/fonts/Inter-VariableFont_slnt\,wght.ttf");
+    src: url("/vitepress-custom-demo/fonts/Inter-VariableFont_slnt\,wght.ttf");
   }
 
   html {
