@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 import customContainerPlugin from "./CustomContainerPlugin/customContainer";
 
 export default defineConfig({
-  title: "Custom Site",
+  title: "FHSH",
   description: "A custom site template",
   appearance: false,
   base: "/vitepress-custom-demo/",

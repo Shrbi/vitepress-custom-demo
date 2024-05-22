@@ -4,11 +4,11 @@ home: true
 
 :::: FlexContainer
 
-::: NewsCard {image="/images/image-web-3-mobile.jpg" image_md="/images/image-web-3-desktop.jpg"}
+::: NewsCard {image="/images/復興.jpg" image_md="/images/復興.jpg"}
 
-## The Bright Future of Web 3.0?
+## 選擇復興 爸媽放心
 
-We dive into the next evolution of the web that claims to put the power of the platforms back into the hands of the people. But is it really fulfilling tis promise?
+什麼?還不知道你高中要讀哪嗎?還在擔心你的會考成績嗎?點及下方,讓我們一起看清楚自己落點位置,一起為自己未來努力吧!
 
 [READ MORE](#)
 
@@ -16,24 +16,26 @@ We dive into the next evolution of the web that claims to put the power of the p
 
 ::: NewList {.md:w-2/5}
 
-## New
+## 頭條
 
-### [Hydrongen VS Electric Cars](#)
+### [學校簡介](/intro)
 
-Will hydrogen-fueled cars ever catch up to EVs?
-
----
-
-### [The Downsides of AI Artistry](#)
-
-What are the possible adverse effects of on-demand AI image generation?
+台北市北投區復興路4段70號,創立於1953年
 
 ---
 
-### [Is VC Funding Drying Up?](#)
+### [特色](#)
 
-Private funding by VC firms is down 50% YOY. We take a look at what that means.
+姊妹校、獨特課程
 
+---
+
+### [校園介紹](#)
+
+復興高中面積具5.13公頃,且位處陽明山半山腰
+
+---
+### [SWOT分析](#)
 :::
 
 ::::
